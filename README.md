@@ -6,7 +6,7 @@ Main Launcher Credits:
 
 AC2 Credits:
 * [uMod Tool For Allowing Texture Modifications](https://code.google.com/archive/p/texmod/)
-* [hecumarine For Creating Overhaul Mod](https://www.moddb.com/mods/assassins-creed-2014-overhaul)
+* [hecumarine For Creating Overhaul Mod](https://www.moddb.com/mods/assassins-creed-ii-overhaul-mod)
 * [Sergeanur For Creating EaglePatch](https://github.com/Sergeanur/EaglePatch)
 * [sergio1030 for Creating PS3 Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/11)
 * [MythicalFiction for Creating PS3 Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/13)
