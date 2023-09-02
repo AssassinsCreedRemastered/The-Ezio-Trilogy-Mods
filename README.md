@@ -12,6 +12,6 @@ AC2 Credits:
 * [MythicalFiction for Creating PC Default Control Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/13)
 * [MythicalFiction for More Recognizable Feather](https://www.nexusmods.com/assassinscreedii/mods/14)
 * [crosire For Creating ReShade](https://reshade.me/)
-* [Paypral2 for the ReShade Preset﻿](https://www.nexusmods.com/assassinscreedii/mods/6)
+* [Paypral2 for the ReShade Preset (Updated to the latest ReShade version by me)﻿](https://www.nexusmods.com/assassinscreedii/mods/6)
 * [thegamesdb on Alphacoders for Background used in the Launcher](https://wall.alphacoders.com/big.php?i=516027)
 * [Troprzem & Przetrosz for the guide to unlock Bonus Content﻿](https://steamcommunity.com/sharedfiles/filedetails/?id=2841221628)
