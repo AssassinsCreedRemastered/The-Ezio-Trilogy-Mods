@@ -9,7 +9,7 @@ AC2 Credits:
 * [hecumarine For Creating Overhaul Mod](https://www.moddb.com/mods/assassins-creed-ii-overhaul-mod)
 * [Sergeanur For Creating EaglePatch](https://github.com/Sergeanur/EaglePatch)
 * [sergio1030 for Creating PS3 Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/11)
-* [MythicalFiction for Creating PS3 Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/13)
+* [MythicalFiction for Creating PC Default Control Buttons Mod](https://www.nexusmods.com/assassinscreedii/mods/13)
 * [MythicalFiction for More Recognizable Feather](https://www.nexusmods.com/assassinscreedii/mods/14)
 * [crosire For Creating ReShade](https://reshade.me/)
 * [Paypral2 for the ReShade Preset﻿](https://www.nexusmods.com/assassinscreedii/mods/6)
