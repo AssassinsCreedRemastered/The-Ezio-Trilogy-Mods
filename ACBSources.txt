@@ -1,2 +1,2 @@
-uMod.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/AC2Mods/uMod.zip
+uMod.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/universal/uMod.zip
 Launcher.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher/releases/latest/download/Launcher.zip
