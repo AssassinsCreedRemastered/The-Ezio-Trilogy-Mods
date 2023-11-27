@@ -1,8 +1,8 @@
 ASI-Loader.zip;https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip
 EaglePatchAC2.rar;https://github.com/Sergeanur/EaglePatch/releases/latest/download/EaglePatchAC2.rar
-uMod.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/latest/download/uMod.zip
-PSButtons.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/latest/download/PSButtons.zip
-PCButtons.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/latest/download/PCButtons.zip
-ReShade.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/latest/download/ReShade.zip
+uMod.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/universal/uMod.zip
+PSButtons.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/AC2Mods/PSButtons.zip
+PCButtons.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/AC2Mods/PCButtons.zip
+ReShade.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/AC2Mods/ReShade.zip
 Launcher.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher/releases/latest/download/Launcher.zip
-Overhaul.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/latest/download/Overhaul.zip
+Overhaul.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/AC2Mods/Overhaul.zip
