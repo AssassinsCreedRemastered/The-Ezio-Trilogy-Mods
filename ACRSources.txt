@@ -1,1 +1,2 @@
 Launcher.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher/releases/latest/download/Launcher.zip
+Updater.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher-Updater/releases/latest/download/Updater.zip
