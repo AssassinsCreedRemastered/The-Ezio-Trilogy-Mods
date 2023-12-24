@@ -1,2 +1,4 @@
 Launcher.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher/releases/latest/download/Launcher.zip
 Updater.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Launcher-Updater/releases/latest/download/Updater.zip
+ASI-Loader.zip;https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip
+ReShade.zip;https://github.com/AssassinsCreedRemastered/The-Ezio-Trilogy-Mods/releases/download/ACRMods/ReShade.zip
